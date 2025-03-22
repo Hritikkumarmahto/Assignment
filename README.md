@@ -39,6 +39,6 @@ This project is a modern and responsive landing page designed for a company usin
 
 ## **Screenshots**  
 _Add a screenshot of the landing page here for better visualization._  
-![Alt Text](Assets/office.jpg)
+![Alt Text](Assets/Website Image.png.jpg)
 
 ---
